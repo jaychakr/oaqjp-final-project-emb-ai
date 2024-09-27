@@ -15,4 +15,3 @@ class TestEmotionDetector(unittest.TestCase):
         self.assertEqual(result_5['dominant_emotion'], 'fear')
 
 unittest.main()
-
